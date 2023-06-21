@@ -1,0 +1,44 @@
+.mainRegister {
+    width: 60%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.formHolder {
+    margin: auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.mainRegister h1 {
+    text-align: center;
+}
+
+.mainRegister label {
+    display: flex;
+    text-align: center;
+    margin-left: 33%;
+}
+
+.mainRegister input {
+    margin-left: 33%;
+    display: flex;
+    text-align: center;
+}
+
+.mainRegister button {
+    margin-top: 2em;
+    padding: 1rem;
+    width: 10em;
+    background-color: aqua;
+    color: black;
+    border-radius: 4%;
+}
+
+.logout {
+    margin-top: 90%;
+}
+
+.logout button {
+    cursor: pointer;
+}
